@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+list-style: none;
+background-color: cornflowerblue;
+display: flex;
+align-items: center;
+padding: 5px;
+justify-content:space-around;
+}
+
+.Home{
+    display: flex;
+
+}
+.bar{
+    cursor:pointer;
+    margin: 10px;
+    padding-right: 8px;
+    font-size: 20px;
+
+}
